@@ -71,10 +71,10 @@ The supercritical fluid loop at the University of Southern Queensland
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project-imgs/sco2_peta1.jpg" title="off-design cycle modelling" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project-imgs/sco2_peta1.png" title="off-design cycle modelling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project-imgs/sco2_peta.jpg" title="off-design cycle modelling" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project-imgs/sco2_peta.png" title="off-design cycle modelling" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -88,4 +88,18 @@ The supercritical fluid loop at the University of Southern Queensland
 </div>
 <div class="caption">
 Off-design performance maps of the supercritical CO2 cycle at varying ambient temperatures. Predicted using open-source off-design thermo-fluid analysis code developed during my PhD. 
+</div>
+
+<div class="row">
+    <div class="col-sm-2 justify-content-between center">
+    </div>
+    <div class="col-sm-8 justify-content-between center">
+        {% include figure.html path="assets/img/project-imgs/sco2_me.jpg" title="Me" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-2 justify-content-between center">
+    </div>
+</div>
+
+<div class="caption">
+    Me during the construction of the (incomplete) wind tunnel heat exchanger test assembly, during my PhD in 2020.
 </div>
