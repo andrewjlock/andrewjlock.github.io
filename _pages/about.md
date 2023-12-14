@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a mechanical engineer with experience in variety of areas spanning thermo-fluid systems, power generation, hypersonics, and dynamical systems. 
+I'm a mechanical engineer with a wide range of experience spanning thermo-fluid systems, power generation, hypersonics, and dynamical systems. 
 I frequently develop and use open-source numerical models, and have worked on experiments and measurements including hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale supercritical fluid power cycles.
 
 After finishing my undergraduate engineering degree in my home town of Hobart, Australia, I spent two years working on natural gas infrastructure. 
