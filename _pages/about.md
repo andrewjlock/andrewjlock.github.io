@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a mechanical engineer with a wide range of experience spanning thermo-fluid systems, power generation, hypersonics, and dynamical systems. 
-I frequently develop and use open-source numerical models to predict, analyse, and optimise the physical world. I also plan and perform experiments such as hypersonic wind tunnel tests, airborne satellite re-entry observations, and small scale experimental power cycles.
+I develop open-source numerical models to predict, analyse, and optimise the physical world. I also plan and perform experiments such as hypersonic wind tunnel tests, airborne satellite re-entry observations, and small scale experimental power cycles.
 
 I'm interested in all things energy, aerospace, and numerical modelling of physical systems (especially those with moving parts).
 
