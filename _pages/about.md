@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: BEng (Mechanical, Hons I), PhD. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: Postdoctoral Research Fellow, University of Southern Queensland
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm fortunate enough in a variety of research areas spanning thermal cycles, power generation,
+hypersonics, dynamical systems, and computational modelling. I develop and use 
+open-source (predominantly Python) modelling tools every day, and have also worked on 
+some fascinating experiments such as hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale super-critical fluid power cycles.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My professional journey started with an undergraduate engineering degree in my
+home town of Hobart, Australia, followed by two years working on natural
+gas infrastructure. Needing more of a challenge, I then completed my PhD at the 
+University of Queensland, Australia focussing on therm-fluid modelling of power cycles 
+and complex-fluid heat transfer. Now I'm a Postdoctoral Research fellow at the University 
+of Southern Queensland. Along the way I've provided teaching assistance to a large number of
+university courses, and been involved in many projects with various industry partners.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Check out the [_projects_](https://andrewjlock.github.io/projects/) tab to see what I've worked on.
