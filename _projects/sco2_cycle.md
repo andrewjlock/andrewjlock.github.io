@@ -101,5 +101,5 @@ Off-design performance maps of the supercritical CO2 cycle at varying ambient te
 </div>
 
 <div class="caption">
-    Me during the construction of the wind tunnel heat exchanger test assembly, during my PhD in 2020.
+    Me during the construction of the wind tunnel heat exchanger test assembly for my PhD (2020).
 </div>
