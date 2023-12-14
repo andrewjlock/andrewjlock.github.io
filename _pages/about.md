@@ -17,13 +17,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a mechanical engineer with a wide range of experience spanning thermo-fluid systems, power generation, hypersonics, and dynamical systems. 
-I frequently develop and use open-source numerical models, and have worked on experiments and measurements including hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale supercritical fluid power cycles.
+I frequently develop and use open-source numerical models to predict, analyse, and optimise the physical world. I also plan and perform experiments, such as with hypersonic wind tunnels, airborne satellite re-entry observations, and small scale experimental power cycles.
 
+I'm interested in all things energy, aerospace, and numerical modelling of physical systems (especially those with moving parts).
+
+**Background** \
 After finishing my undergraduate engineering degree in my home town of Hobart, Australia, I spent two years working on natural gas infrastructure. 
 Wanting a greater challenge, I then completed my PhD at the University of Queensland, Australia focussing on thermo-fluid modelling of power cycles, complex-fluid heat transfer, and the broader energy sector.
 I'm currently a Postdoctoral Research fellow in the Hypersonics and Rocketry group at the University of Southern Queensland, lead by Professor David Buttsworth. 
 Along the way I've provided teaching assistance to a large number of university courses, and been involved in many projects with various industry partners.
 
-I'm interested in all things energy, aerospace, and numerical modelling of physical systems (especially those with moving parts).
 
 Check out the [_projects_](https://andrewjlock.github.io/projects/) tab to see some of what I'm working on.
