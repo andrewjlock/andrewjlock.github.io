@@ -26,4 +26,4 @@ Along the way I've provided teaching assistance to a large number of university 
 
 I'm interested in all things energy, aerospace, and numerical modelling of physical systems (especially those with moving parts).
 
-Check out the [_projects_](https://andrewjlock.github.io/projects/) tab to see what I've worked on.
+Check out the [_projects_](https://andrewjlock.github.io/projects/) tab to see some of what I'm working on.
