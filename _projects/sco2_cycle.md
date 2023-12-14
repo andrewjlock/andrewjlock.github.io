@@ -78,7 +78,7 @@ The supercritical fluid loop at the University of Southern Queensland
     </div>
 </div>
 <div class="caption">
-    Modelling cycle off-design performance for various operating strategies and pressure set-points
+    Modelling cycle off-design performance for various operating strategies and pressure set-points.Predicted using open-source off-design thermo-fluid analysis code developed during my PhD.
 </div>
 
 <div class="row">
@@ -101,5 +101,5 @@ Off-design performance maps of the supercritical CO2 cycle at varying ambient te
 </div>
 
 <div class="caption">
-    Me during the construction of the (incomplete) wind tunnel heat exchanger test assembly, during my PhD in 2020.
+    Me during the construction of the wind tunnel heat exchanger test assembly, during my PhD in 2020.
 </div>
