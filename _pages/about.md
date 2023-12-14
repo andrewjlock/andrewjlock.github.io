@@ -16,17 +16,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a mechanical engineer with experience in variety of areas spanning thermo-fluid systems, power generation, hypersonics, dynamical systems, and numerical modelling. I frequently develop and use open-source (predominantly Python) models, and have also worked on experiment including hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale super-critical fluid power cycles.
+I'm a mechanical engineer with experience in variety of areas spanning thermo-fluid systems, power generation, hypersonics, dynamical systems, and numerical modelling. 
+I frequently develop and use open-soure (predominantly Python) models, and have also worked on experiments including hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale super-critical fluid power cycles.
 
-After finishing my undergraduate engineering degree in my
-home town of Hobart, Australia, I spent two years working on natural
-gas infrastructure. Wanting a greater challenge, I then completed my PhD at the 
-University of Queensland, Australia focussing on thermo-fluid modelling of power cycles, complex-fluid heat transfer, and the broader energy sector.
-Now I'm a Postdoctoral Research fellow at the University 
-of Southern Queensland in the Hypersonics and Rocketry group. Along the way I've provided teaching assistance to a large number of
-university courses, and been involved in many projects with various industry partners.
+After finishing my undergraduate engineering degree in my home town of Hobart, Australia, I spent two years working on natural gas infrastructure. 
+Wanting a greater challenge, I then completed my PhD at the University of Queensland, Australia focussing on thermo-fluid modelling of power cycles, complex-fluid heat transfer, and the broader energy sector.
+Now I'm a Postdoctoral Research fellow at the University of Southern Queensland in the Hypersonics and Rocketry group. 
+Along the way I've provided teaching assistance to a large number of university courses, and been involved in many projects with various industry partners.
 
-I'm interested in all things energy, aerospace, and numerical modelling of
-physical systems (especially those with moving parts).
+I'm interested in all things energy, aerospace, and numerical modelling of physical systems (especially those with moving parts).
 
 Check out the [_projects_](https://andrewjlock.github.io/projects/) tab to see what I've worked on.
