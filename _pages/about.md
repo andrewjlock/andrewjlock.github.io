@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm fortunate enough to have worked in a variety of areas spanning thermo-fluid systems, power generation, hypersonics, dynamical systems, and computational modelling. I develop and use 
+I'm fortunate enough to have worked in a variety of areas spanning thermo-fluid systems, power generation, hypersonics, dynamical systems, and numerical modelling. I develop and use 
 open-source (predominantly Python) modelling tools every day, and have also worked on 
 some fascinating experiments such as hypersonic wind tunnel testing, airborne satellite re-entry observations, and small scale super-critical fluid power cycles.
 
