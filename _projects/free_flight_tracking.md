@@ -32,7 +32,9 @@ See some of our videos below, and check out our papers for further information!
 <!-- </div> -->
 <div class="caption">
     A 30mm cube dropped from near-stationary in Mach 6 flow. Video duration is
-    approx 30 ms in real-time.
+    approx 30 ms in real-time. Tracking result (white frame), expected marker
+    locations (green and blue circles) and image-detected markers (red circles)
+    overlaid.
 </div>
 
 <div class="row mt-3">
@@ -45,5 +47,8 @@ See some of our videos below, and check out our papers for further information!
 <!-- </div> -->
 <div class="caption">
     A 30mm cube dropped with approximately 600 RPM rotation in Mach 6 flow. Video duration is
-    approx 30 ms in real-time.
+    approx 30 ms in real-time. Tracking result (white frame), expected marker
+    locations (green and blue circles) and image-detected markers (red circles)
+    overlaid.
+
 </div>

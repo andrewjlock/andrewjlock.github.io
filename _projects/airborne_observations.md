@@ -30,10 +30,10 @@ OSIRIS-REx satellite. Stay tuned for results and publications!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project-imgs/orex_jet.jpg" title="Orex team" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project-imgs/orex_jet.jpg" title="UniSQ team" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/project-imgs/orex_me.jpg" title="Orex team" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/project-imgs/orex_me.jpg" title="Me" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
