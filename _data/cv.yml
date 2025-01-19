@@ -32,10 +32,11 @@
       institution: University of Southern Queensland, Brisbane, Australia
       year: 2022 - 
       description:
-        - Nonlinear dynamical system modelling with Koopman operator linear approximations
+        - Scientific measurements, imaging, and spatial tracking of re-entry capsules, space debris, and launching vehicles
+        # - Airbone observations of satellite and space debris atmospheric re-entry
         - Stereo optical tracking free-flight models in hypersonic wind tunnels using Bayesian state estimation
-        - Hypersonic vehicle numerical co-design optimisation
-        - Airbone observations of satellite and space debris atmospheric re-entry
+        - Hypersonic vehicle design and trajectory optimisation ("co-design")
+        - Nonlinear dynamical system modelling with Koopman operator linear approximations
     - title: Research Officer
       institution: University of Queensland, Brisbane, Australia
       year: 2021 - 2021
