@@ -41,18 +41,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/aerospace_imaging_and_diagnostics/";
             },},{id: "projects-optical-tracking-in-hypersonic-wind-tunnels",
-          title: 'Optical tracking in hypersonic wind tunnels',
+          title: 'Optical Tracking in Hypersonic Wind Tunnels',
           description: "An efficient way to measure hypersonic aerodynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/free_flight_tracking/";
             },},{id: "projects-hypersonic-vehicle-co-design",
-          title: 'Hypersonic vehicle co-design',
+          title: 'Hypersonic Vehicle Co-design',
           description: "Simultanous vehicle and trajectory optimisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hypersonic_vehicle_codesign/";
             },},{id: "projects-supercritical-co-2-power-cycle",
-          title: 'Supercritical CO$_2$ power cycle',
-          description: "Experiments and modelling to better understand a better alternative to the steam cycle.",
+          title: 'Supercritical CO$_2$ Power Cycle',
+          description: "Experiments and modelling to better understand an alternative to the steam cycle.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sco2_cycle/";
             },},{
