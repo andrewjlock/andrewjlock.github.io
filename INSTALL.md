@@ -77,6 +77,7 @@ $ docker compose up --build
 
 If you want to use a specific docker version, you can do so by changing `latest` tag to `your_version` in `docker-compose.yaml`. For example, you might have created your website on `v0.10.0` and you want to stick with that.
 
+<<<<<<< HEAD
 ### Have Bugs on Docker Image?
 
 Sometimes, there might be some bugs in the current docker image. It might be version mismatch or anything. If you want to debug and easily solve the problem for yourself you can do the following steps:
@@ -107,6 +108,8 @@ bundle install
 
 Most likely, this will solve the problem but it shouldn't really happen. So, please open a bug report for us.
 
+=======
+>>>>>>> 0899bcc7 (Initial commit)
 ## Local Setup with Development Containers
 
 `al-folio` supports [Development Containers](https://containers.dev/supporting).
@@ -242,7 +245,11 @@ If you installed **al-folio** as described above, you can manually update your c
 # Assuming the current directory is <your-repo-name>
 $ git remote add upstream https://github.com/alshedivat/al-folio.git
 $ git fetch upstream
+<<<<<<< HEAD
 $ git rebase v0.14.3
+=======
+$ git rebase v0.14.2
+>>>>>>> 0899bcc7 (Initial commit)
 ```
 
 If you have extensively customized a previous version, it might be trickier to upgrade.
