@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Supercritical CO$_2$ power cycle
-description: Experiments and modelling to better understand a better alternative to the steam cycle.
+title: Supercritical CO$_2$ Power Cycle
+description: Experiments and modelling to better understand an alternative to the steam cycle.
 img: assets/img/project-imgs/sco2_peta1.png
 importance: 1
 category: work
-related_publications: Lock2019,Lock2020,Lock2022,lock_dry_2023
+related_publications: true
 ---
 
 The sCO$$_2$$ cycle is in many ways a better alternative to the steam cycle. In
 my PhD I designed and performed experiments on sCO$$_2$$ heat transfer in
 simulated cooling tower conditions, as well as developed detailed heat exchanger
 and cycle off-design numerical predictive models.
+
+Check out the related publications and thesis for further information {% cite lock_dry_2023 Lock2022 Lock2019 Lock2020 %}
 
 
 <div class="row">

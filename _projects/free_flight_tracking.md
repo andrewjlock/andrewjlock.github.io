@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optical tracking in hypersonic wind tunnels
+title: Optical Tracking in Hypersonic Wind Tunnels
 description: An efficient way to measure hypersonic aerodynamics
 img: assets/img/project-imgs/cube_shock1.png
 importance: 1
@@ -20,7 +20,7 @@ To resolve this, I use a custom-written Unscented (Sigma point) Kalman filter
 and Bayesian smoother for state estimation, which provide smooth second
 kinematic derivatives. 
 
-See some of our videos below, and check out the publications {% cite lock_aerodynamic_2024 %} {% cite lock_optical_2023 %}
+See some of our videos below, and check out the publications {% cite lock_aerodynamic_2024 %} {% cite lock_optical_2023 %} (awarded annual Best Paper by AIAA Ground Testing Technical Committee).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

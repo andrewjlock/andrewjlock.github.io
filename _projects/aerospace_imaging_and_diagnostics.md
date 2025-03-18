@@ -8,16 +8,15 @@ category: work
 related_publications:
 ---
 
-I design and implement portable precision tracking hardware, star-tracking software, and state estimation algorithms for accurate trajectory reconstruction of spacecraft re-entry, vehicle launches, and atmospheric break-up debris. We collaborate with leading aerospace partners from around the world.
+I design and implement portable precision tracking hardware, star-tracking software, and state estimation algorithms to analyse spacecraft re-entry, vehicle launches, and atmospheric break-up debris. 
 
-
-Past projects include:
+I've worked alongside leading aerospace organisations from around the world on their cmpaigns, including:
 - **OSIRIS-REx capsule re-entry** (2023, NASA)
 - **NG-20 ISS resupply capsule re-entry** (2024, Northrop Grumman and University of Kentucky)
 - **Bolt-1b experimental hypersonic rocket launch** (2024, John Hopkins Applied Physics Laboratory)
 - **Varda W-2 capsule re-entry** (2025, Southern Launch)
 
-Ground imaging stations can be preciesly calibrated at night using star tracking, but it is challenging to achieve precision greater than 10 arcminutes during daylight campaigns or for measurements from aircraft. Therefore, a lot my focus is diected at algorithms and bespoke Kalman filters with bias correction to produce accurate reconstrctions from imprecise data.
+Ground imaging stations can be preciesly calibrated at night by star tracking alogorithms, but achieving precision greater than about 10 arcminutes in daylight, or from aircraft is challenging. Therefore, a lot my focus is diected at algorithms and novel Kalman filters with bias correction to produce accurate reconstrctions from imprecise data.
 
 <div class="text-center">
 {% include video.liquid path="assets/video/orex_animation_compressed.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true width=500 %}

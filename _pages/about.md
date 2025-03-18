@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD, BEng (Hons. I)
+subtitle:
 
 profile:
   align: right
@@ -24,13 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I write code to model systems with moving parts, fluids, and heat transfer. I also perform experiments and field measurements.
+I model systems with moving parts, fluids, and heat transfer. I also perform experiments and field measurements.
 
 My expertise includes:
 - Aerodynamics, thermodynamics, and thermo-fluid systems
-- Dynamical system simulation
+- Dynamical system simulation and state estimation
 - Efficient non-linear optimisation
-- Engineering Python models and open-source codebase 
+- Engineering Python models and open-source codebases 
 - Linux systems for laborataory and field data aquisition 
 
 Read more about some of my [**projects**](https://andrewjlock.github.io/projects/).
