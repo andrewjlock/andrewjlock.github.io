@@ -8,10 +8,9 @@ category: work
 related_publications: true
 ---
 
-The sCO$$_2$$ cycle is in many ways a better alternative to the steam cycle. In
-my PhD I designed and performed experiments on sCO$$_2$$ heat transfer in
-simulated cooling tower conditions, as well as developed detailed heat exchanger
-and cycle off-design numerical predictive models.
+The sCO$$_2$$ cycle is in many ways a better alternative to the steam cycle. During
+my PhD I designed and performed experiments with sCO$$_2$$ heat transfer in
+simulated cooling tower conditions, as well as developed detailed cycle off-design numerical predictive models.
 
 Check out the related publications and thesis for further information {% cite lock_dry_2023 Lock2022 Lock2019 Lock2020 %}
 
@@ -22,7 +21,7 @@ Check out the related publications and thesis for further information {% cite lo
     </div>
 </div>
 <div class="caption">
-The supercritical fluid loop at the University of Southern Queensland
+The supercritical fluid loop at the University of Queensland
 </div>
 
 <div class="row">
@@ -34,7 +33,7 @@ The supercritical fluid loop at the University of Southern Queensland
     </div>
 </div>
 <div class="caption">
-    Wind tunnel and heat exchanger design and constructed in my PhD to simulate conditions in dry cooling towers
+    Wind tunnel and heat exchanger designed and constructed in my PhD to simulate conditions in dry cooling towers
 </div>
 
 <div class="row">
