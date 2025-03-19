@@ -30,7 +30,7 @@ Currently a Research Fellow in the [Hypersonics and Rocketry Group](https://www.
 
 I've [collabroated with NASA](https://andrewjlock.github.io/projects/aerospace_imaging_and_diagnostics/), developed [award-winning stereoscopic model tracking](https://arc.aiaa.org/doi/10.2514/6.2023-3713) methods, pioneered [novel supercritical fluid power systems](https://andrewjlock.github.io/projects/sco2_cycle/), and innovated efficient [simultanous hypersonic vehicle design and trajectory optimisation](http://0.0.0.0:8080/projects/hypersonic_vehicle_codesign/) frameworks. My work is [published](https://andrewjlock.github.io/publications/) in many leading international journals, and I've presented at the University of Oxford, international conferences, and to many leading aerospace organisations. 
 
-I enjoy the challenge of quickly developing expertise in new areas. My previous experience includes:
+I enjoy the challenge of quickly developing expertise in new areas. My experience includes:
 - Hypersonic aerodynamics, aero-thermal dynamics, and flight dynamics;
 - Complex thermo-fluid systems including supercritical fluid heat exchangers and off-design turbomachinery;
 - Novel Kalman filters with augmented bias estimation and maximum likelihood hyperparameter tuning; 
