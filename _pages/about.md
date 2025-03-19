@@ -37,7 +37,7 @@ I enjoy the challenge of quickly developing expertise in new areas. My previous 
 - Non-linear optimisation with sensitivity computational graphs, automatic differentation toolchains, and dynamics transcription; and
 - Designing precision laboratory and field instrumentation, actuated optical tracking stations, and star tracking routines.
 
-For desktop analysis I primarily write technical engineering object-oriented code in Python, including developing and maintaining open-source repositories. I'm also experienced in Linux for package development and real-time data aquisition systems, and have experience in static compiled laguage code.   
+For desktop analysis I primarily write technical engineering object-oriented code in Python, including developing and maintaining open-source repositories. I'm experienced in Linux for package development and real-time data aquisition, and have experience in static compiled laguage code.   
 
 Outside of research I love the outdoors, surfing, hiking, and live music. You can read more about some of my [projects](https://andrewjlock.github.io/projects/), and feel free to reach out about collaborations, upcoming opportunities, or just to chat about interesting engineering problems!
 
