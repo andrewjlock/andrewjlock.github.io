@@ -10,7 +10,7 @@ related_publications:
 
 I design and implement portable precision tracking hardware, star-tracking software, and state estimation algorithms to analyse spacecraft re-entry, vehicle launches, and atmospheric break-up debris. 
 
-I've worked alongside leading aerospace organisations from around the world on their cmpaigns, including:
+I've worked alongside leading aerospace organisations from around the world on their campaigns, including:
 - **OSIRIS-REx capsule re-entry** (2023, NASA)
 - **NG-20 ISS resupply capsule re-entry** (2024, Northrop Grumman and University of Kentucky)
 - **Bolt-1b experimental hypersonic rocket launch** (2024, John Hopkins Applied Physics Laboratory)
